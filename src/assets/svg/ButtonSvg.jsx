@@ -55,6 +55,6 @@ const ButtonSvg = (white) => (
       />
     </svg>
   </>
-);
+)
 
 export default ButtonSvg;
